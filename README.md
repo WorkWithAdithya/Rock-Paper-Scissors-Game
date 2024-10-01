@@ -27,18 +27,6 @@
 <p>cd rock-paper-scissors</p>
 <p>open index.html and then run the code </p>
 
-<h1>File structure</h1>
-rock-paper-scissors/
-│
-├── images/            # Folder containing images for Rock, Paper, and Scissors
-│   ├── rock.png
-│   ├── paper.png
-│   └── scissors.png
-│
-├── index.html         # Main HTML file
-├── style.css          # CSS file for styling
-└── app.js             # JavaScript file for game logic
-
 
 
 <h1>Feel free to contact me!</h1>
