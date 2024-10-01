@@ -1,5 +1,9 @@
 <h1>Rock Paper Scissors Game</h1>
-<p>Time taken : 30mins </p>
+
+<h1>Language used</h1>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+
+
 <h1>Demo :  https://sensational-fairy-a6ff88.netlify.app/</h1>
 <p> A modern implementation of the classic Rock Paper Scissors game </p>
 <p> This project is designed to showcase fundamental frontend development skills including DOM manipulation, CSS styling, and basic game logic with JavaScript.</p>
