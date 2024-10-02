@@ -5,8 +5,6 @@
 
 
 <h1>Demo :  https://sensational-fairy-a6ff88.netlify.app/</h1>
-<p> A modern implementation of the classic Rock Paper Scissors game </p>
-<p> This project is designed to showcase fundamental frontend development skills including DOM manipulation, CSS styling, and basic game logic with JavaScript.</p>
 
 <h1>Technology used</h1>
 <p>HTML5: For structuring the game interface.</p>
